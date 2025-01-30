@@ -152,3 +152,27 @@ function draw() {
     fill(255, 255, 0);
     circle(width/2, height/2, height/2);
 }
+
+// 1.5.1 Project: Create Your Own Emoji
+function setup() {
+    createCanvas(500, 500);
+    background(255, 255, 255);
+}
+function draw() {
+    fill(255, 255, 15);
+    circle(250, 250, 400);
+
+    fill(75, 50, 10);
+    ellipse(150, 175, 50, 75);
+    ellipse(350, 175, 50, 75);
+
+    fill(255, 0, 0);
+    circle(150, 200, 15);
+    circle(300, 200, 15);
+    ellipse(150, 165, 15, 35);
+    ellipse(350, 165, 15, 35);
+
+    fill(0, 0, 0);
+    bezier(100, 375, 125, 200, 375, 200, 400, 375);
+}
+
