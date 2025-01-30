@@ -1,0 +1,16 @@
+1.1.7: Reflection: Types of Sketches
+1. What is a drawing?
+- Images made up of shapes
+2. What is an animation?
+- Shapes able to move around the screen creatinga moving picture
+3. What is interactive art?
+- Art where the user can directly interact with the image without
+editing the code
+==================================================================
+
+1.1.8: Reflection: Goals
+Goal 1:
+- Learn how to create a variety of Images
+Goal 2:
+- Learn how to combine animation and interactive aspects
+
